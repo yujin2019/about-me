@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
     Hi! I am majored in computer education. I'm dreaming now! Keep on watching me ^_^/
 
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: "/about-me/"
+baseurl: "about-me/"
 
 # Minima date format
 url: "https://yujin2019.github.io/" 
