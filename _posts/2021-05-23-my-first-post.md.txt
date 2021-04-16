@@ -1,0 +1,15 @@
+---
+title : "Welcome to my blog"
+excerpt : "It is my first blog. It was really hard to make my own blog. BUT!!! Finally, I did it!!"
+
+categories:
+	- etc
+tags :
+	-[Blog, jekyll, first posting]
+
+toc : true
+toc_sticky : true
+
+date: 2021-04-16
+last_modified_at : 2021-04-16
+--- 
