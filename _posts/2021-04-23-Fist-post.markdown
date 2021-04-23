@@ -1,0 +1,32 @@
+---
+layout: post
+title:  ""
+description: An example post which shows code rendering.
+date:   2021-04-23 15:57:36 +0900
+categories: Javascript NodeJS
+---
+Welcom to Yujin's blog!🙋‍♀️🙋‍♂️
+=====
+It is my first post in this blog.☺ I will keep posting everything like studying about programming. Thank you for reading this. _KEEP YOUR EYES ON THIS BLOG_👀
+
+![texture theme preview](https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png) 
+
+```c
+#include<stdio.h>
+
+int main(void){
+print("Hello World!")
+}
+```
+
+제 꿈은 💻개발자💻입니다.
+-----
+컴퓨터교육과🏫에 다니고 있지만 제 꿈은 개발자가 되는 것 입니다.
+그래서 이 블로그의 이름도 🌱_*판교꿈나무*_🌱 라고 정했습니다.
+제주에서 나고 자랐지만 이 학교를 졸업하면 더 넓은 곳에서 제 꿈을 펼쳐보려 합니다. 꼭 지켜보시죠 ^_^
+
+* * *
+
+비록 지금 당장 OSS중간고사 대체과제로 급하게 이 블로그를 만들었지만 이 좋은 기회를 토대로 저의 성장과정을 꼼꼼하고 면밀하게 기록해보려고 합니다.
+궁금하다면  주기적으로 슥 보고 슥 나가기~~~
+😜
