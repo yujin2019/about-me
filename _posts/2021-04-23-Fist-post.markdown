@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "welcomes"
-description: An example post which shows code rendering.
+title:  "welcome"
 date:   2021-04-23 15:57:36 +0900
-categories: Javascript NodeJS
 ---
-Welcom to Yujin's blog!🙋‍♀️🙋‍♂️
-=====
+
 It is my first post in this blog.☺ I will keep posting everything like studying about programming. Thank you for reading this. _KEEP YOUR EYES ON THIS BLOG_👀
 
 ![texture theme preview](https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png) 

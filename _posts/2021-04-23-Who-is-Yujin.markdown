@@ -5,6 +5,7 @@ date:   2021-04-23 00:11:36 +0900
 
 ---
 저는 이런사람입니다.
+---
 ![IMG](https://user-images.githubusercontent.com/75521116/115881784-11bbe980-a487-11eb-89b2-2782a30c1026.jpg)
 
 ### 나는 누구인가?
